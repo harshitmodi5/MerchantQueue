@@ -6,7 +6,7 @@
 
 ## Date : September 24th, 2021
 
-This is where all the planning and design for my future application in Mobile Portfolio 2 can be found.
+This is where all the planning and design for my future application in Mobile App Portfolio 1 can be found.
 
 ![Brainstorming](./images/brainstorm.png)
 
@@ -22,7 +22,7 @@ I am going to be using a public repository in GitHub to track all of my changes 
 
 I am currently in the **inception** phase.
 
-So far I have created a Github repository, brainstorm my app idea and get feedback from others on my **miro** work board. With the help of **GenMyModel** I have created use-case diagram and activity diagram.
+So far I have created a Github repository, brainstorm my app idea and get feedback from others on my **Miro** work board. With the help of **GenMyModel** I have created use-case diagram and activity diagram.
 
 ## UML Diagrams
 
